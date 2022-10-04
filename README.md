@@ -4,7 +4,7 @@
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Bamboo-fly&theme=react-dark" /> </div>
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=春风微起，波微生。弦亦发，酒亦倾。;芳袖动，芬叶披。故两相思，两不知。&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=春风微起，波微生。弦亦发，酒亦倾。;故芳袖动，芬叶披。两相思，两不知。&center=true&size=27"> </a> </h1>
 
 <!--
 **Bamboo-fly/Bamboo-fly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
