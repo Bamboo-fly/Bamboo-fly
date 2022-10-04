@@ -5,9 +5,8 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboo-fly&theme=dark&layout=compact)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=Bamboo-fly&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api?username=Bamboo-fly&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboo-fly&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Bamboo-fly&theme=react-dark" /> </div>
