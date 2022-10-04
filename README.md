@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Wish you best for luck!🙉&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1="Wish you best for luck!🙉"&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=春风微起，波微生。弦亦发，酒亦倾。;故芳袖动，芬叶披。两相思，两不知。&center=true&size=27"> </a> </h1>
 
