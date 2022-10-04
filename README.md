@@ -12,7 +12,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&center=true&text1=Iridescent🐼&width=1000&height=190)](https://github.com/Akshay090/svg-banners)
 
 ### 🌈 Github Stats:
-<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Bamboo-fly?theme=rule34"></a><br>
+<a href="https://count.getloli.com" align="center"><img align="center" src="https://count.getloli.com/get/@Bamboo-fly?theme=rule34"></a><br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Bamboo-fly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=Bamboo-fly&theme=dracula">
 
