@@ -4,7 +4,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboo-fly&theme=dark&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboo-fly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamboo-fly&show_icons=true&theme=radical)
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Bamboo-fly&theme=react-dark" /> </div>
