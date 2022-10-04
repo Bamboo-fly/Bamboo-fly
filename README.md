@@ -6,12 +6,14 @@
 
 <h1 align="center">I'm Bamboo-fly</h1>
 <h3 align="center">A junior majoring in software engineering.</h3>
+<h3 align="center">Currently, my area of greatest interest is Android development.</h3>
+
 
 ### 🌈 Github Stats:
-<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@xihuanxiaorang?theme=rule34"></a><br>
-<img src = "https://github-readme-stats.vercel.app/api?username=xihuanxiaorang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=xihuanxiaorang&theme=dracula">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xihuanxiaorang&theme=monokai">
+<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Bamboo-fly?theme=rule34"></a><br>
+<img src = "https://github-readme-stats.vercel.app/api?username=Bamboo-fly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=Bamboo-fly&theme=dracula">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bamboo-fly&theme=monokai">
 
 
 
