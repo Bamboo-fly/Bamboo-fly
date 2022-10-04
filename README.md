@@ -1,5 +1,3 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Iridescent🙉&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
-
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=春风微起，波微生。弦亦发，酒亦倾。;故芳袖动，芬叶披。两相思，两不知。&center=true&size=27"> </a> </h1>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Bamboo-fly&theme=react-dark" /> </div>
@@ -8,10 +6,10 @@
 <h3 align="center">A junior majoring in software engineering.</h3>
 <h3 align="center">Currently, my area of greatest interest is Android development.</h3>
 <h3 align="center">The language I am most familiar with is Java.</h3>
-<h3 align="center">The language I am most familiar with is Java.</h3>
+<h3 align="center">Hope to learn more interesting techniques.</h3>
 <h3 align="center">Some of us get dipped in flat, some in satin,some in gloss. But every once in a while you find someone who's iridescent, and when you do, nothing will ever compare.</h3>
 
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Iridescent🙉&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 ### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Bamboo-fly?theme=rule34"></a><br>
