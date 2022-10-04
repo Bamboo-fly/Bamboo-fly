@@ -16,7 +16,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=Bamboo-fly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=Bamboo-fly&theme=dracula">
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Bamboo-fly&theme=react-dark" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Bamboo-fly&theme=rogue" /> </div>
 
 
 <!--
