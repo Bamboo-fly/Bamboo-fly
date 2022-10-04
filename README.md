@@ -9,7 +9,7 @@
 <h3 align="center">Hope to learn more interesting techniques.</h3>
 <h3 align="center">Some of us get dipped in flat, some in satin,some in gloss. But every once in a while you find someone who's iridescent, and when you do, nothing will ever compare.</h3>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&center=true&text1=Iridescent🙉&width=500&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&center=true&text1=Iridescent🙉&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 
 ### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Bamboo-fly?theme=rule34"></a><br>
